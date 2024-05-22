@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FTGP-Frontend/static/css/main.45f78ac7.css",
+    "main.js": "/FTGP-Frontend/static/js/main.1392e328.js",
+    "static/js/453.8ab44547.chunk.js": "/FTGP-Frontend/static/js/453.8ab44547.chunk.js",
+    "index.html": "/FTGP-Frontend/index.html",
+    "main.45f78ac7.css.map": "/FTGP-Frontend/static/css/main.45f78ac7.css.map",
+    "main.1392e328.js.map": "/FTGP-Frontend/static/js/main.1392e328.js.map",
+    "453.8ab44547.chunk.js.map": "/FTGP-Frontend/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f78ac7.css",
+    "static/js/main.1392e328.js"
+  ]
+}
